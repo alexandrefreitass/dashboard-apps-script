@@ -1,5 +1,9 @@
 ## Dashboard Navegável no Google Sheets
 
+<div align="center">
+    <img src="https://github.com/alexandrefreitass/dashboard-apps-script/assets/109884524/81ef64af-9275-4ec1-8a5e-cc21835909ac" />
+</div>
+
 ### Sobre o Projeto
 
 Este projeto consiste em um dashboard interativo criado dentro do Google Sheets, utilizando Google Apps Script para melhorar a interatividade e a navegação. Ele foi desenvolvido para permitir aos usuários interagir com esses dados de forma intuitiva.
