@@ -1,6 +1,6 @@
 ## Dashboard Navegável no Google Sheets
 
-<div style="align-items: center; width: 500px;">
+<div align="center" width="300px">
     <img src="https://github.com/alexandrefreitass/dashboard-apps-script/assets/109884524/81ef64af-9275-4ec1-8a5e-cc21835909ac" />
 </div>
 
