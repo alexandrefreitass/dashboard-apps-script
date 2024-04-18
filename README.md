@@ -1,7 +1,7 @@
 ## Dashboard Navegável no Google Sheets
 
-<div align="center" width="300px">
-    <img src="https://github.com/alexandrefreitass/dashboard-apps-script/assets/109884524/81ef64af-9275-4ec1-8a5e-cc21835909ac" />
+<div align="center">
+    <img src="https://github.com/alexandrefreitass/dashboard-apps-script/assets/109884524/157dd116-487e-4b4f-be75-7cd19e368966" />
 </div>
 
 ### Sobre o Projeto
