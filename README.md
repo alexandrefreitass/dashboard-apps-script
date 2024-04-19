@@ -36,4 +36,4 @@ Contribuições são sempre bem-vindas! Se você tem uma sugestão para melhorar
 
 ### Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/alexandrefreitass/dashboard-apps-script/blob/master/LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/alexandrefreitass/dashboard/blob/master/LICENSE) para mais detalhes.
